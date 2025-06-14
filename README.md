@@ -1,4 +1,4 @@
-# Visual Project
+# Advanced Visual Data Analysis TNM098
 
 This project contains Python scripts and a subdirectory primarily focused on data analysis, visualization, and potentially image processing, with a significant portion dedicated to analyzing datasets from the VAST Challenge 2022.
 
